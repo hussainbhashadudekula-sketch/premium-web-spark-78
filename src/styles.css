@@ -88,20 +88,20 @@
   --popover: oklch(1 0 0);
   --popover-foreground: oklch(0.22 0.06 255);
 
-  --primary: oklch(0.48 0.18 258);               /* #1E5BBA deep blue */
+  --primary: oklch(0.48 0.155 263);              /* #1E5BBA exact Cipla deep blue */
   --primary-foreground: oklch(0.99 0.005 230);
 
-  --coral: oklch(0.65 0.21 32);                  /* #E94B3C logo coral */
-  --peach: oklch(0.82 0.11 195);                 /* light teal */
+  --coral: oklch(0.62 0.21 28);                  /* #E94B3C exact logo coral */
+  --peach: oklch(0.82 0.09 184);                 /* light teal tint */
 
   --secondary: oklch(0.95 0.035 200);            /* soft teal tint */
-  --secondary-foreground: oklch(0.22 0.06 255);
+  --secondary-foreground: oklch(0.22 0.06 263);
 
   --muted: oklch(0.96 0.012 230);
-  --muted-foreground: oklch(0.46 0.04 255);
+  --muted-foreground: oklch(0.46 0.04 263);
 
-  --accent: oklch(0.72 0.13 195);                /* #3CBFAE teal */
-  --accent-foreground: oklch(0.18 0.06 255);
+  --accent: oklch(0.73 0.105 184);               /* #3CBFAE exact logo teal */
+  --accent-foreground: oklch(0.18 0.06 263);
 
   --destructive: oklch(0.6 0.22 25);
   --destructive-foreground: oklch(0.99 0 0);
